@@ -1,2 +1,3 @@
 # odin-recipes
-Website to showcase receipes
+Website to showcase recipes
+Starting Odin project called recipes.
